@@ -344,7 +344,7 @@ The following sequences of characters are reserved as keywords
 and are not permitted for use as identifiers:
 
 - `let`
-- `def`
+- `dec`
 - `type`
 - `in`
 - `where`
